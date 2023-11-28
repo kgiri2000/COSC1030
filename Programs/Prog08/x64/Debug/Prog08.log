@@ -1,0 +1,6 @@
+﻿  Prog08.cpp
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Programs\Prog08\Prog08.cpp(30,36): warning C4244: '=': conversion from 'ULONGLONG' to 'unsigned long', possible loss of data
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Programs\Prog08\Prog08.cpp(32,35): warning C4244: '=': conversion from 'ULONGLONG' to 'unsigned long', possible loss of data
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Programs\Prog08\Prog08.cpp(55,36): warning C4244: '=': conversion from 'ULONGLONG' to 'unsigned long', possible loss of data
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Programs\Prog08\Prog08.cpp(57,35): warning C4244: '=': conversion from 'ULONGLONG' to 'unsigned long', possible loss of data
+  Prog08.vcxproj -> C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Programs\Prog08\x64\Debug\Prog08.exe

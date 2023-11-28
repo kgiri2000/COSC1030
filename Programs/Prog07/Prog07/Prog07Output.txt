@@ -1,0 +1,18 @@
+//Prog07Test.txt
+//Kamal Giri
+//COSC 1030 SP 2022
+//Programming Assignment 07
+//04 Mar 2022
+
+data1.info: 25 employees
+Total hours: 1221.92, Average per employee: 48.8769 hours.
+
+data2.info: 15 employees
+Total hours: 907.893, Average per employee: 60.5262 hours.
+
+data3.info: 1 employees
+Total hours: 92.7222, Average per employee: 92.7222 hours.
+
+data4.info: 0 employees
+Total hours: 0, Average per employee: 0 hours.
+
