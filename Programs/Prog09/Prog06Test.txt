@@ -1,0 +1,30 @@
+//Prog06Test.txt
+// Kamal Giri
+// COSC 1030 SP 2022 
+// Program 09
+// March 24 2022
+
+1.
+The x data set:
+0    1    2    4    5    8    9
+the y data set:
+-2.5    3    4.5    7    9.5    10    12.5
+The linear least square parameters are as follows:
+  m = 1.37903
+  b = 0.572581
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Programs\Prog09\Prog09\x64\Debug\Prog09.exe
+ (process 17552) exited with code 0.
+
+2.
+The x data set:
+2    4    6    8    10    12    14
+the y data set:
+-4.5    5    7.5    9    11.5    15    20.5
+The linear least square parameters are as follows:
+  m = 1.76786
+  b = -5
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Programs\Prog09\Prog09\x64\Debug\Prog09.exe 
+(process 16888) exited with code 0.
+
