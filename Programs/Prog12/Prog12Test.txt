@@ -1,0 +1,20 @@
+// Prog12Test.txt
+// Kamal Giri
+// SP2022
+// April 15 2022
+
+The unsorted shapes are as follows:
+(1) circle with perimeter 12.5664
+(2) square with perimeter 8
+(3) EqTriangle with perimeter 6
+(4) circle with perimeter 18.8496
+(5) EqTriangle with perimeter 8.25
+
+The shape list, sorted by perimeter, is as follows:
+(1) EqTriangle with perimeter 6
+(2) square with perimeter 8
+(3) EqTriangle with perimeter 8.25
+(4) circle with perimeter 12.5664
+(5) circle with perimeter 18.8496
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Programs\Prog12\Prog12\x64\Debug\Prog12.exe (process 10508) exited with code 0.
