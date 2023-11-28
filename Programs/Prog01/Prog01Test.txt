@@ -1,0 +1,18 @@
+//Prog01Test.txt
+//Kamal Giri
+//COSC 1030 SP 2022 Section 01
+//Programming Assignment 01
+//Jan 21 2022
+
+INPUT THE FIRST NUMBER:
+500
+INPUT THE SECOND NUMBER:
+-680
+INPUT THE THIRD NUMBER:
+-9999
+INPUT THE FOURTH NUMBER:
+1
+The sum of 500, -680, -9999 and 1 is -10178.
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\prog1\Prog01\x64\Debug\Prog01.exe 
+(process 13620) exited with code 0.

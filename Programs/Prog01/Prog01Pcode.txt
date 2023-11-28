@@ -1,0 +1,37 @@
+// Prog01Pcode.txt
+// Kamal Giri
+// COSC 1030 SP 2022 Section 01
+// Programming Assignment 01
+// Jan 21 2022
+
+Define interger variable num1,num2,num3,num4 and sum for calculation.
+
+Display output to enter first variable.
+
+Prompt user for second value.
+
+num1 = input from the user
+
+Display output to enter second variable.
+
+Promp user for second value.
+
+num2 = input from  the user.
+
+Display output to enter third variable.
+
+Promp user for third value.
+
+num3 = input from  the user.
+
+Display output to enter fourth variable.
+
+Promp user for fourth value.
+
+num4 = input from  the user.
+
+sum = num1+num2+num3+num4.
+
+print sum value in screen.
+
+
