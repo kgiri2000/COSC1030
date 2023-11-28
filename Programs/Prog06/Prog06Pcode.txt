@@ -1,0 +1,25 @@
+//Prog06Pcode.txt
+//Kamal Giri
+//COSC 1030 Fall 2022
+//Program 06
+//Feb 23 2022
+
+
+1. Create the source file called Prog06.cpp, header file(DWALLVol.hpp) and the cpp file(DWALLVol.cpp).
+2.Inside the main function of source file we declare and initilize the variale of height, diameter and thickness in double data type and add header file.
+3.Inside do while loop we get the value of all those variable which should be greater than 0 for height and daimeter and less than 
+	half of diameter for thickness and  also inside the do while loop we, use while loop to only take the double or integer data type from 
+	user else end the program.
+	
+4.Then, inside the header file we declare the function prototype to calculate the cylinder volume and wall volume.
+
+5.Back to main function we call the cylinder volume function which will return the value of volume of the cylinder.
+
+6.Then, Inside cpp file we add the header file and define the cylinder volume function to get the volume and return it.
+
+7.Again, we inside the header file we declare function prototype to get the volume of wall .
+
+8.Back to main function we call function to measure the volume of wall taking parameter of height, diameter, thickness and the volume of cylinder.
+
+9.Back to cpp file we define the function to calculate the volume of wall which we get by subtracting the volume of whole cylinder subtracted by volume of hollow cylinder
+	and print out the volume of the wall.

@@ -1,0 +1,35 @@
+//Prog05Pcode.txt
+//Kamal Giri
+//COSC 1030 SP 2022
+//Program 05
+//Feb 17 2022
+
+
+1.First,we include 4 header file i.e. iostream,iomanip,cfloats and climits.
+
+2.Then, we initilize some constant to make print some lines.
+
+3.Then, we create function prototypes for all the function we preform in the coding. At, first we make function to print some
+	lines in the output. We call it Displaytop function and after making it, we create the main function and call the 
+	function. After calling, we define the function outside the main function, where we create lines using setfill 
+	setw with the help of constant.
+
+4. Then, we create another function to take max input value to find the value of pi. We use do while loop as usual to
+	take the non negative number and return that value.
+
+
+5.Then, back to main function we use if else function to print the value of 4 fixed with precision of double in if statement 
+	when the input value is 0, then we set function prototype  to calculate the pie using Madhava-Leibniz series. We call
+	pieValue function inside else statement as well as create the displayResult function prototype and call inside the 
+	same else statement. 
+
+6. After calling the function to calculate the pie, we define the function where we use for loop to calculate the value of pie.
+	To calculate the value of pie according the given formula by Madhava-Leibniz method, we set the numenator to -1 and
+	power of numenator to 1 and the initilize the bottom value to 1.Then in for loop we defint int i to 1, and i less than
+	or equal to input value and increasment of i by 1 in each loop.Then we set power equals power * base which equals
+	(-1)^k and the bottom equals (2*i +1), which equals (2k+1) in real equaltion . Then we divide the power with bottom and 
+	get the value of pie = pie + power divided by bottom. Then, return the value of pie having double fixed of precision 
+	double.
+
+7. Then, we define the displayResult where we print the value of pie.
+

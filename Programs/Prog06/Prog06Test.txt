@@ -1,0 +1,66 @@
+//Prog06Test.txt
+//Kamal Giri
+//COSC 1030 Fall 2022
+//Program 06
+//Feb 23 2022
+
+1.
+Enter the height (cm) of the tank (>=0): t
+INPUT ERROR!!!
+\\studentfiles.uwyo.edu\profiles$\Folders\Desktop\Compute Science\COSC 1030\Prog06\Debug\Prog06.exe 
+(process 5672) exited with code 0.
+
+2.
+Enter the height (cm) of the tank (>=0): 5
+Enter the diameter (cm) of the tank (>=0): t
+INPUT ERROR!!!
+\\studentfiles.uwyo.edu\profiles$\Folders\Desktop\Compute Science\COSC 1030\Prog06\Debug\Prog06.exe 
+(process 8996) exited with code 0.
+
+3.
+Enter the height (cm) of the tank (>=0): 5
+Enter the diameter (cm) of the tank (>=0): 6
+Enter the thickness (cm) of the tank (0<= thickness <3): f
+INPUT ERROR!!!
+\\studentfiles.uwyo.edu\profiles$\Folders\Desktop\Compute Science\COSC 1030\Prog06\Debug\Prog06.exe 
+(process 1004) exited with code 0.
+
+4.
+Enter the height (cm) of the tank (>=0): -3
+Enter the height (cm) of the tank (>=0): -1
+Enter the height (cm) of the tank (>=0): 2
+Enter the diameter (cm) of the tank (>=0): -1
+Enter the diameter (cm) of the tank (>=0): -4
+Enter the diameter (cm) of the tank (>=0): 2
+Enter the thickness (cm) of the tank (0<= thickness <=1): -1
+Enter the thickness (cm) of the tank (0<= thickness <=1): 2
+Enter the thickness (cm) of the tank (0<= thickness <=1): 1
+
+The volume of the cylinder is: 6.28319 cubic cm
+
+A tank of height 2 cm and diameter 2 cm
+
+with a wall of thickness 1 cm
+
+has a Total Wall Volume of 6.28319 cubic cm.
+
+//Since, the radius is equal to the thickness, the volume of cylinder is equal to volume of wall.
+
+\\studentfiles.uwyo.edu\profiles$\Folders\Desktop\Compute Science\COSC 1030\Prog06\Debug\Prog06.exe
+ (process 10828) exited with code 0.
+
+5.
+Enter the height (cm) of the tank (>=0): 5.5
+Enter the diameter (cm) of the tank (>=0): 2.4
+Enter the thickness (cm) of the tank (0<= thickness <=1.2): 0.9
+
+The volume of the cylinder is: 24.8814 cubic cm
+
+A tank of height 5.5 cm and diameter 2.4 cm
+
+with a wall of thickness 0.9 cm
+
+has a Total Wall Volume of 23.3263 cubic cm.
+
+\\studentfiles.uwyo.edu\profiles$\Folders\Desktop\Compute Science\COSC 1030\Prog06\Debug\Prog06.exe
+ (process 12096) exited with code 0.

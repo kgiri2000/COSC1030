@@ -1,0 +1,50 @@
+//Prog05Test.txt
+//Kamal Giri
+//COSC 1030 SP 2022
+//Program 05 Test
+//Feb 17 2022
+
+Computing pi Series Summation by ML Formula
+===============++++++++====================
+Enter the maximum value of k in truncated series: 0
+Approximation of pi is 4.000000000000000
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Programs\Prog05\Prog05\x64\Debug\Prog05.exe
+ (process 11084) exited with code 0.
+
+Computing pi Series Summation by ML Formula
+===============++++++++====================
+Enter the maximum value of k in truncated series: -9
+Enter the maximum value of k in truncated series: -1
+Enter the maximum value of k in truncated series: 1
+Approximation of pi is 2.666666666666667
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Programs\Prog05\Prog05\x64\Debug\Prog05.exe
+ (process 17700) exited with code 0.
+
+
+Computing pi Series Summation by ML Formula
+===============++++++++====================
+Enter the maximum value of k in truncated series: 50
+Approximation of pi is 3.161198612987051
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Programs\Prog05\Prog05\x64\Debug\Prog05.exe
+ (process 936) exited with code 0.
+
+Computing pi Series Summation by ML Formula
+===============++++++++====================
+Enter the maximum value of k in truncated series: 100
+Approximation of pi is 3.151493401070991
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Programs\Prog05\Prog05\x64\Debug\Prog05.exe 
+(process 13704) exited with code 0.
+
+Computing pi Series Summation by ML Formula
+===============++++++++====================
+Enter the maximum value of k in truncated series: 10000
+Approximation of pi is 3.141692643590535
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Programs\Prog05\Prog05\x64\Debug\Prog05.exe
+ (process 2268) exited with code 0.
+
+
