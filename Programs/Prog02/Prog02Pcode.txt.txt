@@ -1,0 +1,23 @@
+//Prog02Pcode.txt
+//Kamal Giri
+//COSC 1030 SP 2022
+//Jan 25 2022
+//Programming Assignment 02
+
+1. Set the lowest value(-9999) which can be computed as well as can be used during while loop.
+2. Set the temporary variable to store the product of the numbers.
+3. Prompt the user to enter the first integer.
+4. Prompt the user to enter the second integer. 
+5. If the first entered value is smaller than second one and value and greater than the lowest value assigned:
+	i.While the smallest integer is less than value1:
+		- Assign the smallest integer(-9999) to value1
+		- Multiply the temporary product with first value
+		- Increase the first integr by 1.
+6.Print out the product stored in temporary product variable.
+7.If the second entered value is smaller than first entered value and greater than the lowest value assigned(-9999):
+	i.While the smallest integer is less than value2:
+		- Assign the smallest integer(-9999) to value2
+		- Multiply the temporary product with second value.
+		- Increase the second integer by 1.
+8.Print out the product stored in temporary product variable.
+9. Else print the Error! output.

@@ -1,0 +1,58 @@
+//Prog02Test.txt
+//Kamal Giri
+//COSC 1030 SP 2022
+//Jan 25 2022
+//Programming Assignment 02
+
+
+Enter the first integer -9999 to end:
+3
+Enter the value of second integer-9999 to end:
+8
+The product of integers in the bounded interval 3 to 8 is 20160
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Prog02\Prog02\x64\Debug\Prog02.exe 
+(process 8900) exited with code 0.
+
+
+
+Enter the first integer -9999 to end:
+4
+Enter the value of second integer -9999 to end:
+7
+The product of integers in the bounded interval 4 to 7 is 840
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Prog02\Prog02\x64\Debug\Prog02.exe
+ (process 15500) exited with code 0.
+
+
+Enter the first integer -9999 to end:
+7
+Enter the value of second integer -9999 to end:
+4
+The product of integers in the bounded interval 4 to 7 is 840
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Prog02\Prog02\x64\Debug\Prog02.exe 
+(process 12788) exited with code 0.
+
+
+Enter the first integer -9999 to end:
+-1
+Enter the value of second integer -9999 to end:
+3
+The product of integers in the bounded interval -1 to 3 is 0
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Prog02\Prog02\x64\Debug\Prog02.exe 
+(process 16668) exited with code 0.
+
+
+Enter the first integer -9999 to end:
+-12
+Enter the value of second integer -9999 to end:
+-9
+The product of integers in the bounded interval -12 to -9 is 11880
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Prog02\Prog02\x64\Debug\Prog02.exe
+ (process 2668) exited with code 0.
+
+
