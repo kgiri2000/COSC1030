@@ -1,0 +1,60 @@
+//Prog04Test.txt
+//Kamal Giri
+//COSC 1030 Section 01 SP 2022
+//Program 04
+//Feb 11 2022
+
+Enter the non-negative integer(-9999 to end): 8
+
+ The  produt from  1 to  8 is: 40320
+
+Enter the non-negative integer(-9999 to end): 9
+
+ The  produt from  1 to  9 is: 362880
+
+Enter the non-negative integer(-9999 to end): 10
+
+The sum from 1 to 10 is: 55
+
+Enter the non-negative integer(-9999 to end): 11
+
+The sum from 1 to 11 is: 66
+
+Enter the non-negative integer(-9999 to end): 12
+
+The sum from 1 to 12 is: 78
+
+Enter the non-negative integer(-9999 to end): 13
+
+The sum from 1 to 13 is: 91
+
+Enter the non-negative integer(-9999 to end): 45
+
+The sum from 1 to 45 is: 1035
+
+Enter the non-negative integer(-9999 to end): 51
+
+ The  remainder of 51/13 is: 12
+
+Enter the non-negative integer(-9999 to end): -9878
+
+Enter the non-negative integer(-9999 to end): 0
+
+ The  produt from  1 to  0 is: 1
+
+Enter the non-negative integer(-9999 to end): 1
+
+ The  produt from  1 to  1 is: 1
+
+Enter the non-negative integer(-9999 to end): 2
+
+ The  produt from  1 to  2 is: 2
+
+Enter the non-negative integer(-9999 to end): 3
+
+ The  produt from  1 to  3 is: 6
+
+Enter the non-negative integer(-9999 to end): -9999
+
+\\studentfiles.uwyo.edu\profiles$\Folders\Desktop\Compute Science\COSC 1030\Prog04\Prog04\Debug\Prog04.exe 
+(process 8444) exited with code 0.

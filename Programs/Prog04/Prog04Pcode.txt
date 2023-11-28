@@ -1,0 +1,26 @@
+//Prog04Pcode.txt
+//Kamal Giri
+//COSC 1030 Section 01 SP 2022
+//Program 04
+//Feb 11 2022
+
+1. Create 5 function prototype which will take the input(Prompt), do sum, do product, take remainder and finally print all according to the input value before the 
+	main funtion.
+
+2.Create the main function and call the previous function to prompt the user for input.
+
+3.Define the function which will take the the input.Inside the function, initilize SENTINEL value and prompt for input. The input should be non-negative number and
+	and  should be taken in while loop with argument that input shoulbe be greater than SENTINEL value and should not equal SENTIENEL. The program will end if the
+	SENTINEL value is given by the user.
+
+4.Inside the while loop all first we call the function to take the sum and define the sum function outside of Prompt function. Inside the sum function we use 
+	if statement at first to only take the input value between 10 and 45 and use for loop to take the sum from 1 to the given input value. Then, we
+	call the Print function and define the print function outside the sum function where we if statement for value between 10 and 45 to print the sum.
+
+5.Back to the prompt function, we call Product function to take the factorial of the input.After calling the function, we define the function outside the prompt funtion,
+	then inside the produt function, we use if statement to declare that factoraial of 0 is 1 and inside else if statement with argument of input value less than 10
+	, we use for loop to take the factorial. Then we call the print function outside the foor loop and print the factorial inside the print function.
+
+6.Back to prompt function, we call the remainder function. Then we define the function outside the prompt function. Inside the prompt function we just take the modulus of 
+	input value divided by 13 by using modulus as well as use if statement to take the modulus for input greater than 45. Then, we call the print function to print the
+	remainder.

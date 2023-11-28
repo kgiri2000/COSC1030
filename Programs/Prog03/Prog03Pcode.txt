@@ -1,0 +1,53 @@
+//Prog03Pcode.txt
+//Kamal Giri
+//COSC 1030 Section 01 SP 2022
+//Program 03
+//Feb 03 2022
+
+
+//For Task a.
+
+1. Create main function and define some variable to store input and temporary sum.
+
+2.Use  do while loop to prompt the user to take the input greater than 1.In while section of do while loop, the condition
+	shoule be like input value is less than 1 because if the value is less than 1  the loop will continue until the user gives the
+	the input value greater than 1.
+
+3.Then, use for loop with the variable set to value 1 where the loop continues if the variable is less than equal the input value 
+	taken from step 2 while we increase the variable by 1 per each loop as well as store the temporary sum by adding with the 
+	variable until the variable eqauls the value entered.
+
+4. At last, we print the temporary sum.
+
+//For Task b.
+
+1. We prompt the user to take two variables and set the counter to -1.
+
+2. We aslo set assign the value of the input variables to new variable which is used at last.
+
+3. Then, we use the if statement with condition that if 2 variables are equal then the length between them is zero.
+
+4. Then, we use 2 while loop with which works same inside but we use all integer as input so we use one while with condition 
+	first input value is greater than second and vice-versa.Inside both while loop we increase the lower value until it 
+	equals the higher value and use counter to count the loop, finally giving the length of integer.
+
+5.Finally, We print the value of counter which is the length between the two integers.
+
+//For Task c.
+
+1. We prompt the user to give 2 values where first is all  value of integer and second is non-negative integer which is raised to
+	the power of first of first integer.
+
+2. We also declare the temporary product and counter.
+
+3.Then, we again use do while loop to get only non-negative number from the user by setting the second interger value less than zero 
+	in while condition.
+
+4.Then, we use do while loop again to get the power of the integer where we use condition of temporary sum equals to temporary sum 
+	muyltiply the first input value and increasing the counter by 1 each loop and use counter value less than the second 
+	non-negative value.
+
+5. We finally print the temporary product as the first variable power raised to second variable.
+
+
+

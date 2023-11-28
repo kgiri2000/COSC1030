@@ -1,0 +1,55 @@
+//Prog03Test.txt
+//Kamal Giri
+//COSC Section 01 SP 2022
+//Program 03
+//Feb 03 2022
+
+//First running with all values in range
+
+Please input an integer greater than or equal to 1: 9
+
+The sum of integer from 1 to 9 is:  45
+
+
+Please input two integers: 1
+9
+The interval betweeen 1 9 is: 7
+
+
+Please input two integers, the second must be non-negative:2
+10
+
+The product of 2^10 is:1024
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Prog03\Prog03\x64\Debug\Prog03.exe 
+(process 6180) exited with code 0.
+
+
+//Second Running with the values out of range
+
+Please input an integer greater than or equal to 1: -34
+Please input an integer greater than or equal to 1: -98
+Please input an integer greater than or equal to 1: 0
+Please input an integer greater than or equal to 1: 23
+
+The sum of integer from 1 to 23 is:  276
+
+
+Please input two integers: 9
+-9
+The interval betweeen 9 -9 is: 17
+
+
+Please input two integers, the second must be non-negative:2
+-8
+
+
+Please input two integers, the second must be non-negative:2
+0
+
+The product of 2^0 is:1
+
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\2nd Semester\Computer Science I\Prog03\Prog03\x64\Debug\Prog03.exe 
+(process 12520) exited with code 0.
+
+

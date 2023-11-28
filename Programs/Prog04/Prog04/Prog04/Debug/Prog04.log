@@ -1,0 +1,6 @@
+﻿  Prog04.cpp
+\\studentfiles.uwyo.edu\profiles$\Folders\Desktop\Compute Science\COSC 1030\Prog04\Prog04\Prog04.cpp(15,14): warning C4101: 'result': unreferenced local variable
+\\studentfiles.uwyo.edu\profiles$\Folders\Desktop\Compute Science\COSC 1030\Prog04\Prog04\Prog04.cpp(80): warning C4715: 'myFact': not all control paths return a value
+\\studentfiles.uwyo.edu\profiles$\Folders\Desktop\Compute Science\COSC 1030\Prog04\Prog04\Prog04.cpp(57): warning C4715: 'mySum': not all control paths return a value
+\\studentfiles.uwyo.edu\profiles$\Folders\Desktop\Compute Science\COSC 1030\Prog04\Prog04\Prog04.cpp(92): warning C4715: 'myMod': not all control paths return a value
+  Prog04.vcxproj -> \\studentfiles.uwyo.edu\profiles$\Folders\Desktop\Compute Science\COSC 1030\Prog04\Prog04\Debug\Prog04.exe
